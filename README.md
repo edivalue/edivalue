@@ -1,5 +1,5 @@
 Hi, I’m @edivalue!
-A Pythonista, Financial Data Analyst, Graphics Designer😁 and Data Scientist | Machine Learning Engineer with expertise in Python, Django, PyTorch, Visual Studio Code, Excel, and Google sheets. With over thousands of programming hours and problem solving experience I aim to use my expertise to deliver the best results in any project. I also have various Data Science projects under my belt which validate my skill set.
+A Pythonista, Financial Data Analyst, Graphics Designer😁 and Data Scientist | Machine Learning Engineer with expertise in Python, Kivy, PyTorch, Visual Studio Code, Excel, and Google sheets. With over thousands of programming hours and problem solving experience I aim to use my expertise to deliver the best results in any project. I also have various Data Science projects under my belt which validate my skill set.
 
 The skills I offer as a Data Scientist are:
 
